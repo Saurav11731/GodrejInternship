@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../newsPortal1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"Codegeex.SidebarUI.LanguagePreference": "English",
+		"liveServer.settings.multiRootWorkspaceName": "GodrejInternship"
+	}
+}
